@@ -5,6 +5,10 @@ Tableau portfolio project: sales and shipping analysis
 
 The dataset used in this project was obtained from Kaggle public datasets.
 
+## Dashboard
+
+![Sales Dashboard](images/Dashboard.png)
+
 ## Overview
 
 This project analyzes sales and shipping performance using Tableau.
