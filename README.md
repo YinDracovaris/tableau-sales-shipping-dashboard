@@ -12,8 +12,8 @@ The dataset used in this project was obtained from Kaggle public datasets.
 ## Overview
 
 This project analyzes sales and shipping performance using Tableau.
-The dashboard provides an interactive view of sales trends, product.
-performance, geographical distribution, and shipping times.
+The dashboard provides an interactive view of sales trends, product 
+categories performance, geographical distribution, and shipping times.
 
 ## Objectives
 
